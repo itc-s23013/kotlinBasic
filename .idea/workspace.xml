@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="11章　終了">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/check02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/check01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/check01.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="12章　終了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715130906550</updated>
       <workItem from="1715130907730" duration="19854000" />
-      <workItem from="1715215625127" duration="17728000" />
+      <workItem from="1715215625127" duration="18428000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -207,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715230763661</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="12章　終了">
+      <option name="closed" value="true" />
+      <created>1715241671604</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715241671604</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +221,8 @@
     <MESSAGE value="9章　終了" />
     <MESSAGE value="10章　終了" />
     <MESSAGE value="11章　終了" />
-    <option name="LAST_COMMIT_MESSAGE" value="11章　終了" />
+    <MESSAGE value="12章　終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="12章　終了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
