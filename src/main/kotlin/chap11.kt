@@ -5,9 +5,9 @@ fun main(args: Array<String>) {
     val b = 10
 //    val b = 5
 
-    if (a<b) {
+    if (a < b) {
         println("aの方がbより小さいです")
-    } else if (a<b) {
+    } else if (a < b) {
         println("aの方がbよりも大きいです")
     } else {
         println("aとbの値は同じです。")
@@ -30,3 +30,4 @@ fun main(args: Array<String>) {
         "中学生ではありません"
     }
     println(message)
+}

@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="２章　終わり">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap07.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap5.kt" afterDir="false" />
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="11章　終了">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/check02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/check01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/check01.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "itc-s23013"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itc-s23013&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/itc-s23013/kotlinBasic.git",
-    "accountId": "09b5be0e-7f02-4d3e-bd53-8b9637fcf9c1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itc-s23013/kotlinBasic.git&quot;,
+    &quot;accountId&quot;: &quot;09b5be0e-7f02-4d3e-bd53-8b9637fcf9c1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gACHGsZKN3Ik1rrtpDwrCIr8UE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -59,8 +59,14 @@
     "Gradle.kotlinBasic のビルド.executor": "Run",
     "Kotlin.Chap03Kt.executor": "Run",
     "Kotlin.Chap07Kt.executor": "Run",
+    "Kotlin.Chap08Kt.executor": "Run",
+    "Kotlin.Chap09Kt.executor": "Debug",
+    "Kotlin.Chap10Kt.executor": "Run",
+    "Kotlin.Chap11Kt.executor": "Run",
     "Kotlin.Chap4Kt.executor": "Run",
     "Kotlin.Chap5Kt.executor": "Run",
+    "Kotlin.Check01Kt.executor": "Run",
+    "Kotlin.Check02Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -80,30 +86,37 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Chap07Kt">
-    <configuration name="Chap03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap03Kt" />
+  <component name="RunManager" selected="Kotlin.Check02Kt">
+    <configuration name="Chap09Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap09Kt" />
       <module name="kotlinBasic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chap07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap07Kt" />
+    <configuration name="Chap10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap10Kt" />
       <module name="kotlinBasic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chap4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap4Kt" />
+    <configuration name="Chap11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap11Kt" />
       <module name="kotlinBasic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chap5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap5Kt" />
+    <configuration name="Check01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Check01Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Check02Kt" />
       <module name="kotlinBasic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Chap07Kt" />
-        <item itemvalue="Kotlin.Chap5Kt" />
-        <item itemvalue="Kotlin.Chap4Kt" />
-        <item itemvalue="Kotlin.Chap03Kt" />
+        <item itemvalue="Kotlin.Check02Kt" />
+        <item itemvalue="Kotlin.Check01Kt" />
+        <item itemvalue="Kotlin.Chap11Kt" />
+        <item itemvalue="Kotlin.Chap10Kt" />
+        <item itemvalue="Kotlin.Chap09Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +148,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715130906550</updated>
-      <workItem from="1715130907730" duration="19460000" />
+      <workItem from="1715130907730" duration="19854000" />
+      <workItem from="1715215625127" duration="17728000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -152,7 +167,47 @@
       <option name="project" value="LOCAL" />
       <updated>1715137715554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="7章まで終わり">
+      <option name="closed" value="true" />
+      <created>1715155287452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155287452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="8章　終了">
+      <option name="closed" value="true" />
+      <created>1715221147746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715221147746</updated>
+    </task>
+    <task id="LOCAL-00005" summary="9章　終了">
+      <option name="closed" value="true" />
+      <created>1715221170346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715221170346</updated>
+    </task>
+    <task id="LOCAL-00006" summary="10章　終了">
+      <option name="closed" value="true" />
+      <created>1715223759901</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715223759901</updated>
+    </task>
+    <task id="LOCAL-00007" summary="11章　終了">
+      <option name="closed" value="true" />
+      <created>1715230763661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715230763661</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +215,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="２章　終わり" />
-    <option name="LAST_COMMIT_MESSAGE" value="２章　終わり" />
+    <MESSAGE value="7章まで終わり" />
+    <MESSAGE value="8章　終了" />
+    <MESSAGE value="9章　終了" />
+    <MESSAGE value="10章　終了" />
+    <MESSAGE value="11章　終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="11章　終了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -169,6 +229,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/chap09.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
