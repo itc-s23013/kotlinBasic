@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="12章　終了">
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="再コミット">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap16.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Check04.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/check03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/check05.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +78,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/s23013/IdeaProjects/kotlinBasic/src/main/kotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +93,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
   <component name="RunManager" selected="Kotlin.Check04Kt">
     <configuration name="Chap13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Chap13Kt" />
@@ -151,7 +162,7 @@
       <updated>1715130906550</updated>
       <workItem from="1715130907730" duration="19854000" />
       <workItem from="1715215625127" duration="18472000" />
-      <workItem from="1715646856541" duration="4673000" />
+      <workItem from="1715646856541" duration="10437000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -225,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715241736579</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="再コミット">
+      <option name="closed" value="true" />
+      <created>1715652175362</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715652175362</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +258,8 @@
     <MESSAGE value="10章　終了" />
     <MESSAGE value="11章　終了" />
     <MESSAGE value="12章　終了" />
-    <option name="LAST_COMMIT_MESSAGE" value="12章　終了" />
+    <MESSAGE value="再コミット" />
+    <option name="LAST_COMMIT_MESSAGE" value="再コミット" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -250,7 +270,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/chap09.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Chap09.kt</url>
           <line>17</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
