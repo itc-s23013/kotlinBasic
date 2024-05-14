@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="12章　終了" />
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="12章　終了">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Check04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/check03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,10 +61,13 @@
     "Kotlin.Chap09Kt.executor": "Debug",
     "Kotlin.Chap10Kt.executor": "Run",
     "Kotlin.Chap11Kt.executor": "Run",
+    "Kotlin.Chap13Kt.executor": "Run",
     "Kotlin.Chap4Kt.executor": "Run",
     "Kotlin.Chap5Kt.executor": "Run",
     "Kotlin.Check01Kt.executor": "Run",
     "Kotlin.Check02Kt.executor": "Run",
+    "Kotlin.Check03Kt.executor": "Run",
+    "Kotlin.Check04Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -79,23 +87,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Check02Kt">
-    <configuration name="Chap09Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap09Kt" />
-      <module name="kotlinBasic.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chap10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap10Kt" />
-      <module name="kotlinBasic.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chap11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap11Kt" />
+  <component name="RunManager" selected="Kotlin.Check04Kt">
+    <configuration name="Chap13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap13Kt" />
       <module name="kotlinBasic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,13 +109,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Check03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Check03Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Check04Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Check04Kt" />
+        <item itemvalue="Kotlin.Chap13Kt" />
+        <item itemvalue="Kotlin.Check03Kt" />
         <item itemvalue="Kotlin.Check02Kt" />
         <item itemvalue="Kotlin.Check01Kt" />
-        <item itemvalue="Kotlin.Chap11Kt" />
-        <item itemvalue="Kotlin.Chap10Kt" />
-        <item itemvalue="Kotlin.Chap09Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +150,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715130906550</updated>
       <workItem from="1715130907730" duration="19854000" />
-      <workItem from="1715215625127" duration="18428000" />
+      <workItem from="1715215625127" duration="18472000" />
+      <workItem from="1715646856541" duration="4673000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -208,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715241671604</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="12章　終了">
+      <option name="closed" value="true" />
+      <created>1715241736579</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715241736579</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
