@@ -28,6 +28,17 @@ fun main(args: Array<String>) {
         println(p.message)
         println(p.getGreetMessage())
     }
+    run {
+        println("-----24.5----")
+        val p = Person4()
+        p.name = "竹島"
+        p.age = 5
+        println(p.message)
+        p.age = 6
+        println(p.message)
+        p.age = 100
+        println(p.message)
+    }
 }
 
 class Person1 {
@@ -38,7 +49,7 @@ class Person1 {
     }
 }
 
-    class Person3 {
+class Person3 {
         var age: Int = 20
             set (value) {
                 print("${field}歳から ${value}歳になりました。")
@@ -61,4 +72,20 @@ class Person4 {
     fun getGreetMessage(): String {
         return "${name}です。${age}歳です。"
     }
+}
+class Person7 {
+    var name: String = ""
+    var age: Int = 0
+    val message: String
+        get() = "${name}です。${age}歳です。"
+}
+
+class Person8 {
+    var name: String = ""
+    var age: Int = 0
+    var textAge: String
+        set(value) {
+            age = value.toInt()
+        }
+        get() = age.toString()
 }
