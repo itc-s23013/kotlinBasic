@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="18章　コミット">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap19.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap21.kt" afterDir="false" />
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="21章　コミット">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap22.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap21.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Kotlin.Chap18Kt.executor": "Run",
     "Kotlin.Chap19Kt.executor": "Run",
     "Kotlin.Chap21Kt.executor": "Run",
+    "Kotlin.Chap22Kt.executor": "Run",
     "Kotlin.Chap4Kt.executor": "Run",
     "Kotlin.Chap5Kt.executor": "Run",
     "Kotlin.Check01Kt.executor": "Run",
@@ -78,6 +78,7 @@
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindow実行.ShowToolbar": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/s23013/IdeaProjects/kotlinBasic/src/main/kotlin",
@@ -100,14 +101,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Chap21Kt">
-    <configuration name="Chap18Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exampl.Chap18Kt" />
-      <module name="kotlinBasic.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chap22Kt">
     <configuration name="Chap19Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Chap19Kt" />
       <module name="kotlinBasic.main" />
@@ -117,6 +111,13 @@
     </configuration>
     <configuration name="Chap21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Chap21Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap22Kt" />
       <module name="kotlinBasic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chap22Kt" />
         <item itemvalue="Kotlin.Chap21Kt" />
         <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Chap19Kt" />
-        <item itemvalue="Kotlin.Chap18Kt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,7 @@
       <workItem from="1715215625127" duration="18472000" />
       <workItem from="1715646856541" duration="22637000" />
       <workItem from="1715733329092" duration="451000" />
-      <workItem from="1715735332319" duration="7199000" />
+      <workItem from="1715735332319" duration="16008000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -266,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715733772766</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="21章　コミット">
+      <option name="closed" value="true" />
+      <created>1715744592736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715744592736</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +292,8 @@
     <MESSAGE value="再コミット" />
     <MESSAGE value="15章　コミット" />
     <MESSAGE value="18章　コミット" />
-    <option name="LAST_COMMIT_MESSAGE" value="18章　コミット" />
+    <MESSAGE value="21章　コミット" />
+    <option name="LAST_COMMIT_MESSAGE" value="21章　コミット" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

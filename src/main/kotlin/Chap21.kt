@@ -28,4 +28,20 @@ fun getTimes(x: Int, y: Int, z: Int):Unit {
         println("これらの値をかけ合わせた答えは ${x * y * z}です。")
         println("------------------------------")
     }
+
+    //21.14
+    fun printTimes(vararg numbers: Int) {
+        var result = 1
+        for (x in numbers) {
+            result *= x
+        }
+        println("すべての数値を掛け算した結果:$result")
+    }
+    run {
+        println("----21.14----")
+        printTimes(2, 3)
+        printTimes(5, 10, 20)
+        printTimes(1, 10, 100, 1000)
+        printTimes(2, 2, 2, 2, 2, 2, 2, 2,)
+    }
 }
