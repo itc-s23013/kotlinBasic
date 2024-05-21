@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="23章　コミット">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap25.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap26.kt" afterDir="false" />
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="26章　セカンダリ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap26.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap26.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,67 +50,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.kotlinBasic のビルド.executor": "Run",
-    "Kotlin.Chap03Kt.executor": "Run",
-    "Kotlin.Chap07Kt.executor": "Run",
-    "Kotlin.Chap08Kt.executor": "Run",
-    "Kotlin.Chap09Kt.executor": "Debug",
-    "Kotlin.Chap10Kt.executor": "Run",
-    "Kotlin.Chap11Kt.executor": "Run",
-    "Kotlin.Chap13Kt.executor": "Run",
-    "Kotlin.Chap16Kt.executor": "Run",
-    "Kotlin.Chap17Kt.executor": "Run",
-    "Kotlin.Chap18Kt (1).executor": "Run",
-    "Kotlin.Chap18Kt.executor": "Run",
-    "Kotlin.Chap19Kt.executor": "Run",
-    "Kotlin.Chap21Kt.executor": "Run",
-    "Kotlin.Chap22Kt.executor": "Run",
-    "Kotlin.Chap23Kt.executor": "Run",
-    "Kotlin.Chap24Kt.executor": "Run",
-    "Kotlin.Chap25Kt.executor": "Run",
-    "Kotlin.Chap4Kt.executor": "Run",
-    "Kotlin.Chap5Kt.executor": "Run",
-    "Kotlin.Check01Kt.executor": "Run",
-    "Kotlin.Check02Kt.executor": "Run",
-    "Kotlin.Check03Kt.executor": "Run",
-    "Kotlin.Check04Kt.executor": "Run",
-    "Kotlin.MainKt (2).executor": "Run",
-    "Kotlin.MainKt.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindow実行.ShowToolbar": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/s23013/IdeaProjects/kotlinBasic/src/main/kotlin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/s23013/IdeaProjects/kotlinBasic/src/main/kotlin/Main.kt",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.kotlinBasic のビルド.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap03Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap07Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap08Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap09Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Chap10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap16Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap17Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap18Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap18Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap19Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap21Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap22Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap23Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap24Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap25Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap26Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Check01Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Check02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Check03Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Check04Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (2).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindow実行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/s23013/IdeaProjects/kotlinBasic/src/main/kotlin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/s23013/IdeaProjects/kotlinBasic/src/main/kotlin/Main.kt&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "/home/s23013/.gradle"
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/home/s23013/.gradle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Chap25Kt">
-    <configuration name="Chap21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chap21Kt" />
-      <module name="kotlinBasic.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chap26Kt">
     <configuration name="Chap22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Chap22Kt" />
       <module name="kotlinBasic.main" />
@@ -141,13 +133,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chap26Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap26.Chap26Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chap26Kt" />
         <item itemvalue="Kotlin.Chap25Kt" />
         <item itemvalue="Kotlin.Chap24Kt" />
         <item itemvalue="Kotlin.Chap23Kt" />
         <item itemvalue="Kotlin.Chap22Kt" />
-        <item itemvalue="Kotlin.Chap21Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +171,8 @@
       <workItem from="1715646856541" duration="22637000" />
       <workItem from="1715733329092" duration="451000" />
       <workItem from="1715735332319" duration="16008000" />
-      <workItem from="1715820080327" duration="21106000" />
+      <workItem from="1715820080327" duration="21597000" />
+      <workItem from="1716253281533" duration="5304000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -294,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715830967312</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="26章　セカンダリ">
+      <option name="closed" value="true" />
+      <created>1715847217334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715847217334</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +322,8 @@
     <MESSAGE value="21章　コミット" />
     <MESSAGE value="22章　コミット" />
     <MESSAGE value="23章　コミット" />
-    <option name="LAST_COMMIT_MESSAGE" value="23章　コミット" />
+    <MESSAGE value="26章　セカンダリ" />
+    <option name="LAST_COMMIT_MESSAGE" value="26章　セカンダリ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
