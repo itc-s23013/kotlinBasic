@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="31章 終了">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap32.kt" afterDir="false" />
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="32章 終了">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap34.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,8 @@
     "Kotlin.Chap29Kt.executor": "Debug",
     "Kotlin.Chap30Kt.executor": "Run",
     "Kotlin.Chap31Kt.executor": "Run",
-    "Kotlin.Chap32Kt.executor": "Run",
+    "Kotlin.Chap32Kt.executor": "Debug",
+    "Kotlin.Chap34Kt.executor": "Run",
     "Kotlin.Chap4Kt.executor": "Run",
     "Kotlin.Chap5Kt.executor": "Run",
     "Kotlin.Check01Kt.executor": "Run",
@@ -110,14 +111,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Chap32Kt">
-    <configuration name="Chap28Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.chap28.Chap28Kt" />
-      <module name="kotlinBasic.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chap34Kt">
     <configuration name="Chap29Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.chap29.Chap29Kt" />
       <module name="kotlinBasic.main" />
@@ -146,13 +140,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chap34Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap34.Chap34Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.Chap32Kt" />
+        <item itemvalue="Kotlin.Chap34Kt" />
         <item itemvalue="Kotlin.Chap31Kt" />
         <item itemvalue="Kotlin.Chap30Kt" />
         <item itemvalue="Kotlin.Chap29Kt" />
-        <item itemvalue="Kotlin.Chap28Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,7 @@
       <workItem from="1715735332319" duration="16008000" />
       <workItem from="1715820080327" duration="21597000" />
       <workItem from="1716253281533" duration="20223000" />
-      <workItem from="1716338937213" duration="9464000" />
+      <workItem from="1716338937213" duration="15674000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -357,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716344395393</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="32章 終了">
+      <option name="closed" value="true" />
+      <created>1716357669638</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716357669638</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +392,8 @@
     <MESSAGE value="29章 終了" />
     <MESSAGE value="30章 終了" />
     <MESSAGE value="31章 終了" />
-    <option name="LAST_COMMIT_MESSAGE" value="31章 終了" />
+    <MESSAGE value="32章 終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="32章 終了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
