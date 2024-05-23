@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="3４章 終了">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap35.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="35章 終了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +179,7 @@
       <workItem from="1715820080327" duration="21597000" />
       <workItem from="1716253281533" duration="20223000" />
       <workItem from="1716338937213" duration="18391000" />
-      <workItem from="1716424243172" duration="2026000" />
+      <workItem from="1716424243172" duration="2439000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -376,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716364228966</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="35章 終了">
+      <option name="closed" value="true" />
+      <created>1716426653542</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1716426653542</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +409,8 @@
     <MESSAGE value="31章 終了" />
     <MESSAGE value="32章 終了" />
     <MESSAGE value="3４章 終了" />
-    <option name="LAST_COMMIT_MESSAGE" value="3４章 終了" />
+    <MESSAGE value="35章 終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="35章 終了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
