@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="38章 終了">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap39.kt" afterDir="false" />
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="39章 終了">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap40.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +83,7 @@
     "Kotlin.Chap37Kt.executor": "Run",
     "Kotlin.Chap38Kt.executor": "Run",
     "Kotlin.Chap39Kt.executor": "Run",
+    "Kotlin.Chap40Kt.executor": "Run",
     "Kotlin.Chap4Kt.executor": "Run",
     "Kotlin.Chap5Kt.executor": "Run",
     "Kotlin.Check01Kt.executor": "Run",
@@ -116,14 +117,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Chap39Kt">
-    <configuration name="Chap35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.chap35.Chap35Kt" />
-      <module name="kotlinBasic.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chap40Kt">
     <configuration name="Chap36Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.chap36.Chap36Kt" />
       <module name="kotlinBasic.main" />
@@ -152,13 +146,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chap40Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap40.Chap40Kt" />
+      <module name="kotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chap40Kt" />
         <item itemvalue="Kotlin.Chap39Kt" />
         <item itemvalue="Kotlin.Chap38Kt" />
         <item itemvalue="Kotlin.Chap37Kt" />
         <item itemvalue="Kotlin.Chap36Kt" />
-        <item itemvalue="Kotlin.Chap35Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,7 @@
       <workItem from="1715820080327" duration="21597000" />
       <workItem from="1716253281533" duration="20223000" />
       <workItem from="1716338937213" duration="18391000" />
-      <workItem from="1716424243172" duration="17369000" />
+      <workItem from="1716424243172" duration="20075000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -412,14 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716440819998</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="39章 終了">
+      <option name="closed" value="true" />
+      <created>1716446256324</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716446256324</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="２章　終わり" />
     <MESSAGE value="7章まで終わり" />
     <MESSAGE value="8章　終了" />
     <MESSAGE value="9章　終了" />
@@ -444,7 +452,8 @@
     <MESSAGE value="36章 終了" />
     <MESSAGE value="37章 終了" />
     <MESSAGE value="38章 終了" />
-    <option name="LAST_COMMIT_MESSAGE" value="38章 終了" />
+    <MESSAGE value="39章 終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="39章 終了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
