@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="39章 終了">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap40.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ca9711be-16ca-479d-83b4-43f49ef3ad96" name="変更" comment="40章 終了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +184,7 @@
       <workItem from="1715820080327" duration="21597000" />
       <workItem from="1716253281533" duration="20223000" />
       <workItem from="1716338937213" duration="18391000" />
-      <workItem from="1716424243172" duration="20075000" />
+      <workItem from="1716424243172" duration="20954000" />
     </task>
     <task id="LOCAL-00001" summary="２章　終わり">
       <option name="closed" value="true" />
@@ -421,14 +418,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716446256324</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="40章 終了">
+      <option name="closed" value="true" />
+      <created>1716449491828</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716449491828</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7章まで終わり" />
     <MESSAGE value="8章　終了" />
     <MESSAGE value="9章　終了" />
     <MESSAGE value="10章　終了" />
@@ -453,7 +457,8 @@
     <MESSAGE value="37章 終了" />
     <MESSAGE value="38章 終了" />
     <MESSAGE value="39章 終了" />
-    <option name="LAST_COMMIT_MESSAGE" value="39章 終了" />
+    <MESSAGE value="40章 終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="40章 終了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
